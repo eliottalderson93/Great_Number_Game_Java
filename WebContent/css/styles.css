@@ -1,0 +1,40 @@
+*{
+	text-align:center;
+	padding:5px;
+	margin:5px;
+}
+.wrapper{
+	background-color:silver;
+	height:1000px;
+	width:1000px;
+}
+.high{
+	background-color:red;
+	width:200px;
+	height:200px;
+	border:black solid 2px;
+}
+.low{
+	background-color:red;
+	width:200px;
+	height:200px;
+		border:black solid 2px;
+}
+.win{
+	background-color:green;
+	width:200px;
+	height:200px;
+	border:black solid 2px;
+}
+.high p{
+	margin-top:75px;
+}
+.low p{
+	margin-top:75px;
+}
+.win p{
+	margin-top:50px;
+}
+.win button{
+	margin-top:20px;
+}
